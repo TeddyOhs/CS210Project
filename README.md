@@ -10,3 +10,4 @@ README update:
 - I had the most trouble figuring out how to tie both of the languages to work together. There were many parts I was able to get help with through peers as well as youtube guides and stack overflow was great in aiding those very specific questions on wrong inputs on my end. Having other eyes on my code helped me see my mistakes.
 - I know for a fact that all this research into combining languages will be a recurring task and I will definitely be using that moving forward so I am glad to have been assigned this early on. 
 - I tried my best to not overcomplicate the written code portions, and tried to make it more readable by following code structure and comment syntax. I did my best to allign comments with the functions and goals of the code written or changed.
+//End of term
